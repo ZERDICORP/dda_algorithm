@@ -5,7 +5,7 @@
 ## Launch guide
 
 ```console
-$ git clone https://github.com/ZERDICORP/dda_algorithm".git
+$ git clone https://github.com/ZERDICORP/dda_algorithm.git
 $ cd dda_algorithm
 $ ./run
 ```
